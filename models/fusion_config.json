@@ -1,0 +1,20 @@
+{
+  "weights": {
+    "lstm": 0.5,
+    "nlp": 0.25,
+    "cnn": 0.25
+  },
+  "thresholds": {
+    "critical": 75,
+    "warning": 50,
+    "monitor": 25
+  },
+  "rul_cap": 125,
+  "fault_severity": {
+    "turbine_blade_damage": 95,
+    "bearing_wear": 75,
+    "compressor_degradation": 65,
+    "fuel_system": 55,
+    "sensor_drift": 30
+  }
+}

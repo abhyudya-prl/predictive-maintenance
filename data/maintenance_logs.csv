@@ -1,0 +1,1001 @@
+log,fault_type
+"Surge event recorded, compressor map reviewed Monitoring continues.",compressor_degradation
+"Turbine blade tip clearance out of spec, adjusted Follow-up scheduled.",turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed Work order raised.",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Hot section damage suspected, borescope inspection done Monitoring continues.",turbine_blade_damage
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Repair completed.",sensor_drift
+"Vibration amplitude increasing, bearing replacement scheduled Engineer notified.",bearing_wear
+"Erratic sensor output during cold start, replaced Work order raised.",sensor_drift
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+"Turbine blade tip clearance out of spec, adjusted Parts ordered.",turbine_blade_damage
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+"Pressure transducer drift detected, recalibrated Parts ordered.",sensor_drift
+Sensor reading inconsistent with adjacent sensor values Work order raised.,sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Repair completed.",fuel_system
+"Pressure transducer drift detected, recalibrated Follow-up scheduled.",sensor_drift
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Follow-up scheduled.",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Work order raised.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Work order raised.",compressor_degradation
+Fuel pressure drop observed during high load operation Repair completed.,fuel_system
+"Fuel flow rate inconsistent, injector cleaned and tested Work order raised.",fuel_system
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+"Data dropout from sensor cluster, wiring inspected Follow-up scheduled.",sensor_drift
+"Pressure transducer drift detected, recalibrated Repair completed.",sensor_drift
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Follow-up scheduled.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled Engineer notified.",bearing_wear
+"Hot section damage suspected, borescope inspection done Work order raised.",turbine_blade_damage
+"Flow coefficient reduced, compressor blades inspected Parts ordered.",compressor_degradation
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled Work order raised.",bearing_wear
+"Hot section damage suspected, borescope inspection done Monitoring continues.",turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Work order raised.",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values Follow-up scheduled.,sensor_drift
+"Bearing temperature exceeded threshold, lubrication checked Parts ordered.",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+Fuel pressure drop observed during high load operation Work order raised.,fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Work order raised.",fuel_system
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+"Surge event recorded, compressor map reviewed",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values,sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Work order raised.",fuel_system
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked",bearing_wear
+Unusual vibration detected in main bearing assembly Parts ordered.,bearing_wear
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+"Fuel line blockage cleared, pressure restored to normal",fuel_system
+Sensor bias confirmed after cross-check with backup Engineer notified.,sensor_drift
+"Engine stall during acceleration, fuel pump inspected Monitoring continues.",fuel_system
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Inlet pressure ratio declining, compressor washed Follow-up scheduled.",compressor_degradation
+"Fuel flow rate inconsistent, injector cleaned and tested Repair completed.",fuel_system
+Exhaust gas temperature spread increased significantly Work order raised.,turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Monitoring continues.,turbine_blade_damage
+Exhaust gas temperature spread increased significantly Parts ordered.,turbine_blade_damage
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Parts ordered.",compressor_degradation
+Unusual vibration detected in main bearing assembly Engineer notified.,bearing_wear
+"Flow coefficient reduced, compressor blades inspected Repair completed.",compressor_degradation
+"Inlet pressure ratio declining, compressor washed Repair completed.",compressor_degradation
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Engineer notified.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Parts ordered.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Work order raised.",turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Follow-up scheduled.",bearing_wear
+"Flow coefficient reduced, compressor blades inspected Follow-up scheduled.",compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Work order raised.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Follow-up scheduled.",turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Work order raised.",bearing_wear
+"Fuel flow rate inconsistent, injector cleaned and tested Monitoring continues.",fuel_system
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Surge event recorded, compressor map reviewed Monitoring continues.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Repair completed.",sensor_drift
+Exhaust gas temperature spread increased significantly Work order raised.,turbine_blade_damage
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal",fuel_system
+"Abnormal fuel consumption reported, filter replaced Parts ordered.",fuel_system
+"Flow coefficient reduced, compressor blades inspected Work order raised.",compressor_degradation
+Abnormal compressor discharge temperature logged,compressor_degradation
+"Fuel line blockage cleared, pressure restored to normal Repair completed.",fuel_system
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Monitoring continues.",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Engineer notified.",turbine_blade_damage
+"Bearing temperature exceeded threshold, lubrication checked Follow-up scheduled.",bearing_wear
+"High frequency noise from bearing, excessive heat noted Monitoring continues.",bearing_wear
+Sensor bias confirmed after cross-check with backup,sensor_drift
+"Hot section damage suspected, borescope inspection done",turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Engineer notified.",fuel_system
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Engineer notified.",fuel_system
+Crack detected on turbine blade during visual inspection Monitoring continues.,turbine_blade_damage
+Exhaust gas temperature spread increased significantly Work order raised.,turbine_blade_damage
+"Compressor efficiency drop, blade fouling suspected Parts ordered.",compressor_degradation
+"Erratic sensor output during cold start, replaced Follow-up scheduled.",sensor_drift
+"Metal shavings found in oil filter, bearing inspection done",bearing_wear
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+Abnormal compressor discharge temperature logged,compressor_degradation
+Sensor bias confirmed after cross-check with backup Engineer notified.,sensor_drift
+"Data dropout from sensor cluster, wiring inspected Follow-up scheduled.",sensor_drift
+Sensor bias confirmed after cross-check with backup,sensor_drift
+"Rattling noise during startup, bearing wear confirmed",bearing_wear
+"Compressor efficiency drop, blade fouling suspected Follow-up scheduled.",compressor_degradation
+"Metal shavings found in oil filter, bearing inspection done Repair completed.",bearing_wear
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Work order raised.",compressor_degradation
+"Fuel line blockage cleared, pressure restored to normal Parts ordered.",fuel_system
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+"Flow coefficient reduced, compressor blades inspected",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Engineer notified.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Flow coefficient reduced, compressor blades inspected Work order raised.",compressor_degradation
+"Flow coefficient reduced, compressor blades inspected Work order raised.",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Follow-up scheduled.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+Sensor reading inconsistent with adjacent sensor values Follow-up scheduled.,sensor_drift
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+Fuel pressure drop observed during high load operation Work order raised.,fuel_system
+"Erratic sensor output during cold start, replaced Follow-up scheduled.",sensor_drift
+"Compressor efficiency drop, blade fouling suspected Parts ordered.",compressor_degradation
+"High frequency noise from bearing, excessive heat noted Monitoring continues.",bearing_wear
+"High frequency noise from bearing, excessive heat noted Monitoring continues.",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+Unusual vibration detected in main bearing assembly Work order raised.,bearing_wear
+"Metal shavings found in oil filter, bearing inspection done Work order raised.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Work order raised.",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Engineer notified.",fuel_system
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Pressure transducer drift detected, recalibrated Repair completed.",sensor_drift
+"Pressure transducer drift detected, recalibrated",sensor_drift
+"Pressure transducer drift detected, recalibrated",sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Follow-up scheduled.",fuel_system
+Sensor bias confirmed after cross-check with backup Engineer notified.,sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Work order raised.",fuel_system
+"Turbine exit temperature spike, blade inspection required Work order raised.",turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Work order raised.",bearing_wear
+"Pressure transducer drift detected, recalibrated Monitoring continues.",sensor_drift
+"Inlet pressure ratio declining, compressor washed Engineer notified.",compressor_degradation
+Sensor bias confirmed after cross-check with backup Parts ordered.,sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Follow-up scheduled.",compressor_degradation
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+"Turbine exit temperature spike, blade inspection required Work order raised.",turbine_blade_damage
+"Bearing temperature exceeded threshold, lubrication checked",bearing_wear
+"Temperature sensor showing offset, calibration performed Repair completed.",sensor_drift
+"Surge event recorded, compressor map reviewed Repair completed.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Parts ordered.,turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Parts ordered.,turbine_blade_damage
+"Hot section damage suspected, borescope inspection done Parts ordered.",turbine_blade_damage
+"Erratic sensor output during cold start, replaced",sensor_drift
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+"Hot section damage suspected, borescope inspection done Monitoring continues.",turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Repair completed.",fuel_system
+Fuel pressure drop observed during high load operation Engineer notified.,fuel_system
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Flow coefficient reduced, compressor blades inspected Work order raised.",compressor_degradation
+"Metal shavings found in oil filter, bearing inspection done Follow-up scheduled.",bearing_wear
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+"Fuel leak detected near injector nozzle, seal replaced Follow-up scheduled.",fuel_system
+"Engine stall during acceleration, fuel pump inspected Follow-up scheduled.",fuel_system
+Fuel pressure drop observed during high load operation Parts ordered.,fuel_system
+"Erratic sensor output during cold start, replaced Work order raised.",sensor_drift
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed Parts ordered.",compressor_degradation
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+Fuel pressure drop observed during high load operation,fuel_system
+"Inlet pressure ratio declining, compressor washed Engineer notified.",compressor_degradation
+"Temperature sensor showing offset, calibration performed Repair completed.",sensor_drift
+"Bearing temperature exceeded threshold, lubrication checked Monitoring continues.",bearing_wear
+"Engine stall during acceleration, fuel pump inspected Repair completed.",fuel_system
+"Fuel line blockage cleared, pressure restored to normal Work order raised.",fuel_system
+Sensor bias confirmed after cross-check with backup Monitoring continues.,sensor_drift
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+Sensor bias confirmed after cross-check with backup Work order raised.,sensor_drift
+"Hot section damage suspected, borescope inspection done Monitoring continues.",turbine_blade_damage
+"Bearing temperature exceeded threshold, lubrication checked Engineer notified.",bearing_wear
+Fuel pressure drop observed during high load operation Work order raised.,fuel_system
+"Compressor efficiency drop, blade fouling suspected Work order raised.",compressor_degradation
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Engine stall during acceleration, fuel pump inspected",fuel_system
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Engineer notified.",bearing_wear
+"Metal shavings found in oil filter, bearing inspection done Repair completed.",bearing_wear
+"Compressor efficiency drop, blade fouling suspected Engineer notified.",compressor_degradation
+"Turbine blade tip clearance out of spec, adjusted",turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed",compressor_degradation
+"Temperature sensor showing offset, calibration performed Work order raised.",sensor_drift
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+"Temperature sensor showing offset, calibration performed Work order raised.",sensor_drift
+"Rattling noise during startup, bearing wear confirmed Parts ordered.",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+"Pressure transducer drift detected, recalibrated Work order raised.",sensor_drift
+"Pressure transducer drift detected, recalibrated Follow-up scheduled.",sensor_drift
+Exhaust gas temperature spread increased significantly Work order raised.,turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Follow-up scheduled.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced Follow-up scheduled.",fuel_system
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+Exhaust gas temperature spread increased significantly Repair completed.,turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes,turbine_blade_damage
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+"Rattling noise during startup, bearing wear confirmed Engineer notified.",bearing_wear
+Sensor bias confirmed after cross-check with backup Engineer notified.,sensor_drift
+"Bearing temperature exceeded threshold, lubrication checked Engineer notified.",bearing_wear
+"Inlet pressure ratio declining, compressor washed Repair completed.",compressor_degradation
+"Abnormal fuel consumption reported, filter replaced",fuel_system
+"Erratic sensor output during cold start, replaced Follow-up scheduled.",sensor_drift
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Engineer notified.",compressor_degradation
+Abnormal compressor discharge temperature logged,compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+Unusual vibration detected in main bearing assembly Repair completed.,bearing_wear
+"Abnormal fuel consumption reported, filter replaced Work order raised.",fuel_system
+"Pressure transducer drift detected, recalibrated Repair completed.",sensor_drift
+Unusual vibration detected in main bearing assembly Repair completed.,bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+"Fuel line blockage cleared, pressure restored to normal Work order raised.",fuel_system
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced Monitoring continues.",fuel_system
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+Unusual vibration detected in main bearing assembly Engineer notified.,bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled Follow-up scheduled.",bearing_wear
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+"Turbine exit temperature spike, blade inspection required Work order raised.",turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Work order raised.",sensor_drift
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+"Temperature sensor showing offset, calibration performed Repair completed.",sensor_drift
+"Temperature sensor showing offset, calibration performed Parts ordered.",sensor_drift
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+"Turbine blade tip clearance out of spec, adjusted",turbine_blade_damage
+"Flow coefficient reduced, compressor blades inspected Repair completed.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Work order raised.",bearing_wear
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+"Abnormal fuel consumption reported, filter replaced Repair completed.",fuel_system
+Sensor bias confirmed after cross-check with backup Monitoring continues.,sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Parts ordered.",fuel_system
+"Turbine exit temperature spike, blade inspection required Parts ordered.",turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Engineer notified.",fuel_system
+"Inlet pressure ratio declining, compressor washed Engineer notified.",compressor_degradation
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+Sensor bias confirmed after cross-check with backup Work order raised.,sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Work order raised.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+Unusual vibration detected in main bearing assembly Engineer notified.,bearing_wear
+"Metal shavings found in oil filter, bearing inspection done Monitoring continues.",bearing_wear
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"Metal shavings found in oil filter, bearing inspection done Parts ordered.",bearing_wear
+Thermal fatigue marks found on turbine nozzle guide vanes,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+Crack detected on turbine blade during visual inspection Monitoring continues.,turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Monitoring continues.",fuel_system
+"Engine stall during acceleration, fuel pump inspected Repair completed.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+Exhaust gas temperature spread increased significantly Work order raised.,turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+"Flow coefficient reduced, compressor blades inspected Work order raised.",compressor_degradation
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Pressure transducer drift detected, recalibrated",sensor_drift
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed Engineer notified.",compressor_degradation
+Abnormal compressor discharge temperature logged Follow-up scheduled.,compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Parts ordered.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Work order raised.",compressor_degradation
+"Erratic sensor output during cold start, replaced Parts ordered.",sensor_drift
+"Inlet pressure ratio declining, compressor washed Follow-up scheduled.",compressor_degradation
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+Abnormal compressor discharge temperature logged Parts ordered.,compressor_degradation
+"Flow coefficient reduced, compressor blades inspected Follow-up scheduled.",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Engineer notified.",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Monitoring continues.",turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Work order raised.",sensor_drift
+Fuel pressure drop observed during high load operation Engineer notified.,fuel_system
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+Abnormal compressor discharge temperature logged,compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Parts ordered.",compressor_degradation
+Abnormal compressor discharge temperature logged Follow-up scheduled.,compressor_degradation
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Fuel flow rate inconsistent, injector cleaned and tested Parts ordered.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Work order raised.,turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced",fuel_system
+"Rattling noise during startup, bearing wear confirmed Parts ordered.",bearing_wear
+"Metal shavings found in oil filter, bearing inspection done Parts ordered.",bearing_wear
+"Engine stall during acceleration, fuel pump inspected Work order raised.",fuel_system
+Crack detected on turbine blade during visual inspection,turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Work order raised.,turbine_blade_damage
+"Flow coefficient reduced, compressor blades inspected Engineer notified.",compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Parts ordered.",fuel_system
+"Surge event recorded, compressor map reviewed Monitoring continues.",compressor_degradation
+"Turbine blade tip clearance out of spec, adjusted Parts ordered.",turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted",bearing_wear
+"Hot section damage suspected, borescope inspection done Engineer notified.",turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Engineer notified.",turbine_blade_damage
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed",bearing_wear
+"Engine stall during acceleration, fuel pump inspected Follow-up scheduled.",fuel_system
+Exhaust gas temperature spread increased significantly Repair completed.,turbine_blade_damage
+"Compressor efficiency drop, blade fouling suspected Follow-up scheduled.",compressor_degradation
+"Erratic sensor output during cold start, replaced Parts ordered.",sensor_drift
+"Flow coefficient reduced, compressor blades inspected",compressor_degradation
+"Inlet pressure ratio declining, compressor washed Work order raised.",compressor_degradation
+"Flow coefficient reduced, compressor blades inspected",compressor_degradation
+"Metal shavings found in oil filter, bearing inspection done Work order raised.",bearing_wear
+Unusual vibration detected in main bearing assembly Engineer notified.,bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Parts ordered.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Engineer notified.",compressor_degradation
+"Surge event recorded, compressor map reviewed Repair completed.",compressor_degradation
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+Unusual vibration detected in main bearing assembly Work order raised.,bearing_wear
+Sensor reading inconsistent with adjacent sensor values Work order raised.,sensor_drift
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+Fuel pressure drop observed during high load operation Engineer notified.,fuel_system
+Sensor reading inconsistent with adjacent sensor values Repair completed.,sensor_drift
+"Vibration amplitude increasing, bearing replacement scheduled Work order raised.",bearing_wear
+"Fuel flow rate inconsistent, injector cleaned and tested Parts ordered.",fuel_system
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+"Abnormal fuel consumption reported, filter replaced",fuel_system
+"Surge event recorded, compressor map reviewed Parts ordered.",compressor_degradation
+"Fuel line blockage cleared, pressure restored to normal Engineer notified.",fuel_system
+"Metal shavings found in oil filter, bearing inspection done Engineer notified.",bearing_wear
+"Surge event recorded, compressor map reviewed Engineer notified.",compressor_degradation
+Abnormal compressor discharge temperature logged Parts ordered.,compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked",bearing_wear
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+Unusual vibration detected in main bearing assembly,bearing_wear
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+"High frequency noise from bearing, excessive heat noted Parts ordered.",bearing_wear
+Crack detected on turbine blade during visual inspection Follow-up scheduled.,turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Metal shavings found in oil filter, bearing inspection done Monitoring continues.",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+"Hot section damage suspected, borescope inspection done Monitoring continues.",turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed Repair completed.",compressor_degradation
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+"Data dropout from sensor cluster, wiring inspected Work order raised.",sensor_drift
+"Erratic sensor output during cold start, replaced",sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Parts ordered.",fuel_system
+Unusual vibration detected in main bearing assembly,bearing_wear
+Crack detected on turbine blade during visual inspection Engineer notified.,turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced",fuel_system
+"Engine stall during acceleration, fuel pump inspected Work order raised.",fuel_system
+"Erratic sensor output during cold start, replaced Parts ordered.",sensor_drift
+"Inlet pressure ratio declining, compressor washed Work order raised.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed",bearing_wear
+"Temperature sensor showing offset, calibration performed Repair completed.",sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes Monitoring continues.,turbine_blade_damage
+"Vibration amplitude increasing, bearing replacement scheduled Engineer notified.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Parts ordered.",bearing_wear
+"Turbine exit temperature spike, blade inspection required Work order raised.",turbine_blade_damage
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+"Compressor efficiency drop, blade fouling suspected Follow-up scheduled.",compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked Follow-up scheduled.",bearing_wear
+"Compressor efficiency drop, blade fouling suspected Monitoring continues.",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Monitoring continues.",compressor_degradation
+Crack detected on turbine blade during visual inspection Repair completed.,turbine_blade_damage
+Sensor bias confirmed after cross-check with backup Parts ordered.,sensor_drift
+Unusual vibration detected in main bearing assembly Parts ordered.,bearing_wear
+"Surge event recorded, compressor map reviewed Follow-up scheduled.",compressor_degradation
+"Compressor stall detected, inlet guide vanes adjusted Engineer notified.",compressor_degradation
+"Compressor stall detected, inlet guide vanes adjusted Monitoring continues.",compressor_degradation
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Hot section damage suspected, borescope inspection done Monitoring continues.",turbine_blade_damage
+"Data dropout from sensor cluster, wiring inspected Work order raised.",sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Parts ordered.",fuel_system
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+"Surge event recorded, compressor map reviewed Engineer notified.",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Monitoring continues.",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values,sensor_drift
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal Follow-up scheduled.",fuel_system
+Sensor reading inconsistent with adjacent sensor values Follow-up scheduled.,sensor_drift
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+"Inlet pressure ratio declining, compressor washed",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Work order raised.",compressor_degradation
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+Thermal fatigue marks found on turbine nozzle guide vanes Repair completed.,turbine_blade_damage
+"Flow coefficient reduced, compressor blades inspected Parts ordered.",compressor_degradation
+"Surge event recorded, compressor map reviewed Monitoring continues.",compressor_degradation
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Fuel line blockage cleared, pressure restored to normal Engineer notified.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled Work order raised.",bearing_wear
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+"Hot section damage suspected, borescope inspection done Parts ordered.",turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Work order raised.",fuel_system
+"Engine stall during acceleration, fuel pump inspected Work order raised.",fuel_system
+"Engine stall during acceleration, fuel pump inspected Parts ordered.",fuel_system
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Flow coefficient reduced, compressor blades inspected Follow-up scheduled.",compressor_degradation
+"Fuel flow rate inconsistent, injector cleaned and tested Follow-up scheduled.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled Engineer notified.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Parts ordered.",fuel_system
+"Erratic sensor output during cold start, replaced",sensor_drift
+"Hot section damage suspected, borescope inspection done Repair completed.",turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+"Inlet pressure ratio declining, compressor washed Repair completed.",compressor_degradation
+Sensor bias confirmed after cross-check with backup Parts ordered.,sensor_drift
+Crack detected on turbine blade during visual inspection Follow-up scheduled.,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Parts ordered.",compressor_degradation
+"Hot section damage suspected, borescope inspection done Parts ordered.",turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Parts ordered.",bearing_wear
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+"Compressor efficiency drop, blade fouling suspected",compressor_degradation
+"Erratic sensor output during cold start, replaced Monitoring continues.",sensor_drift
+"Abnormal fuel consumption reported, filter replaced Engineer notified.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled Follow-up scheduled.",bearing_wear
+"Fuel flow rate inconsistent, injector cleaned and tested Work order raised.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Work order raised.,turbine_blade_damage
+Sensor reading inconsistent with adjacent sensor values Repair completed.,sensor_drift
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+"Erratic sensor output during cold start, replaced",sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+"Metal shavings found in oil filter, bearing inspection done",bearing_wear
+"Rattling noise during startup, bearing wear confirmed Parts ordered.",bearing_wear
+"Inlet pressure ratio declining, compressor washed Engineer notified.",compressor_degradation
+Abnormal compressor discharge temperature logged Parts ordered.,compressor_degradation
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+"Metal shavings found in oil filter, bearing inspection done",bearing_wear
+Sensor bias confirmed after cross-check with backup,sensor_drift
+"Rattling noise during startup, bearing wear confirmed Work order raised.",bearing_wear
+Fuel pressure drop observed during high load operation Parts ordered.,fuel_system
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+"Data dropout from sensor cluster, wiring inspected Repair completed.",sensor_drift
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes Parts ordered.,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Monitoring continues.",compressor_degradation
+Crack detected on turbine blade during visual inspection Follow-up scheduled.,turbine_blade_damage
+"Bearing temperature exceeded threshold, lubrication checked Repair completed.",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Work order raised.",fuel_system
+"Surge event recorded, compressor map reviewed Engineer notified.",compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked Engineer notified.",bearing_wear
+"Rattling noise during startup, bearing wear confirmed Follow-up scheduled.",bearing_wear
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+"Metal shavings found in oil filter, bearing inspection done Engineer notified.",bearing_wear
+"Flow coefficient reduced, compressor blades inspected Repair completed.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Work order raised.",sensor_drift
+Abnormal compressor discharge temperature logged,compressor_degradation
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Work order raised.",bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Engineer notified.",compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked Engineer notified.",bearing_wear
+"Flow coefficient reduced, compressor blades inspected Repair completed.",compressor_degradation
+"Compressor stall detected, inlet guide vanes adjusted",compressor_degradation
+"Erratic sensor output during cold start, replaced Engineer notified.",sensor_drift
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Engineer notified.",bearing_wear
+"Abnormal fuel consumption reported, filter replaced",fuel_system
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+Exhaust gas temperature spread increased significantly Parts ordered.,turbine_blade_damage
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Monitoring continues.",fuel_system
+Sensor bias confirmed after cross-check with backup Repair completed.,sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+"Compressor stall detected, inlet guide vanes adjusted Follow-up scheduled.",compressor_degradation
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+"Metal shavings found in oil filter, bearing inspection done Engineer notified.",bearing_wear
+Fuel pressure drop observed during high load operation Repair completed.,fuel_system
+"Turbine blade tip clearance out of spec, adjusted Follow-up scheduled.",turbine_blade_damage
+Fuel pressure drop observed during high load operation Work order raised.,fuel_system
+Unusual vibration detected in main bearing assembly Repair completed.,bearing_wear
+Sensor bias confirmed after cross-check with backup Engineer notified.,sensor_drift
+"High frequency noise from bearing, excessive heat noted Follow-up scheduled.",bearing_wear
+"Engine stall during acceleration, fuel pump inspected Work order raised.",fuel_system
+"Hot section damage suspected, borescope inspection done Repair completed.",turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Parts ordered.",sensor_drift
+"Engine stall during acceleration, fuel pump inspected Engineer notified.",fuel_system
+"Flow coefficient reduced, compressor blades inspected Monitoring continues.",compressor_degradation
+"Surge event recorded, compressor map reviewed Engineer notified.",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values Work order raised.,sensor_drift
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Turbine exit temperature spike, blade inspection required Engineer notified.",turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+"Compressor efficiency drop, blade fouling suspected Repair completed.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Work order raised.",bearing_wear
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+Thermal fatigue marks found on turbine nozzle guide vanes Parts ordered.,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Follow-up scheduled.",compressor_degradation
+"High frequency noise from bearing, excessive heat noted",bearing_wear
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Flow coefficient reduced, compressor blades inspected Parts ordered.",compressor_degradation
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+"Pressure transducer drift detected, recalibrated",sensor_drift
+"Inlet pressure ratio declining, compressor washed",compressor_degradation
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+"Compressor efficiency drop, blade fouling suspected Follow-up scheduled.",compressor_degradation
+"High frequency noise from bearing, excessive heat noted",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Repair completed.",bearing_wear
+"Compressor efficiency drop, blade fouling suspected Parts ordered.",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Parts ordered.",turbine_blade_damage
+Unusual vibration detected in main bearing assembly Engineer notified.,bearing_wear
+"Pressure transducer drift detected, recalibrated Parts ordered.",sensor_drift
+"Pressure transducer drift detected, recalibrated Monitoring continues.",sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Monitoring continues.",fuel_system
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+"Bearing temperature exceeded threshold, lubrication checked Monitoring continues.",bearing_wear
+"Fuel line blockage cleared, pressure restored to normal Repair completed.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+"Temperature sensor showing offset, calibration performed Repair completed.",sensor_drift
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal Follow-up scheduled.",fuel_system
+"Inlet pressure ratio declining, compressor washed Follow-up scheduled.",compressor_degradation
+"Turbine blade tip clearance out of spec, adjusted Work order raised.",turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Monitoring continues.",fuel_system
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+"Rattling noise during startup, bearing wear confirmed",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"Vibration amplitude increasing, bearing replacement scheduled Monitoring continues.",bearing_wear
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+Sensor bias confirmed after cross-check with backup Repair completed.,sensor_drift
+"High frequency noise from bearing, excessive heat noted Follow-up scheduled.",bearing_wear
+Abnormal compressor discharge temperature logged Repair completed.,compressor_degradation
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+Crack detected on turbine blade during visual inspection Follow-up scheduled.,turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Repair completed.",fuel_system
+"High frequency noise from bearing, excessive heat noted Monitoring continues.",bearing_wear
+Sensor bias confirmed after cross-check with backup Monitoring continues.,sensor_drift
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Data dropout from sensor cluster, wiring inspected Work order raised.",sensor_drift
+Abnormal compressor discharge temperature logged Engineer notified.,compressor_degradation
+Abnormal compressor discharge temperature logged Repair completed.,compressor_degradation
+"Turbine blade tip clearance out of spec, adjusted Repair completed.",turbine_blade_damage
+"Bearing temperature exceeded threshold, lubrication checked",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled Monitoring continues.",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+"Temperature sensor showing offset, calibration performed Engineer notified.",sensor_drift
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+Exhaust gas temperature spread increased significantly Engineer notified.,turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Repair completed.",sensor_drift
+Unusual vibration detected in main bearing assembly Engineer notified.,bearing_wear
+"Engine stall during acceleration, fuel pump inspected Parts ordered.",fuel_system
+"Hot section damage suspected, borescope inspection done Work order raised.",turbine_blade_damage
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"Bearing temperature exceeded threshold, lubrication checked Follow-up scheduled.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Parts ordered.",fuel_system
+"Abnormal fuel consumption reported, filter replaced Repair completed.",fuel_system
+"Hot section damage suspected, borescope inspection done Repair completed.",turbine_blade_damage
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+"Rattling noise during startup, bearing wear confirmed Follow-up scheduled.",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled Engineer notified.",bearing_wear
+"Turbine blade tip clearance out of spec, adjusted Repair completed.",turbine_blade_damage
+Crack detected on turbine blade during visual inspection,turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Fuel line blockage cleared, pressure restored to normal Work order raised.",fuel_system
+"Hot section damage suspected, borescope inspection done Work order raised.",turbine_blade_damage
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+Crack detected on turbine blade during visual inspection,turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Follow-up scheduled.",sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Engineer notified.",compressor_degradation
+"Pressure transducer drift detected, recalibrated Work order raised.",sensor_drift
+"High frequency noise from bearing, excessive heat noted Monitoring continues.",bearing_wear
+Sensor bias confirmed after cross-check with backup Monitoring continues.,sensor_drift
+"High frequency noise from bearing, excessive heat noted Parts ordered.",bearing_wear
+"Erratic sensor output during cold start, replaced Parts ordered.",sensor_drift
+"Bearing temperature exceeded threshold, lubrication checked Follow-up scheduled.",bearing_wear
+"Metal shavings found in oil filter, bearing inspection done Repair completed.",bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+Unusual vibration detected in main bearing assembly Repair completed.,bearing_wear
+"Data dropout from sensor cluster, wiring inspected Work order raised.",sensor_drift
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted",compressor_degradation
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+Fuel pressure drop observed during high load operation Work order raised.,fuel_system
+"Bearing temperature exceeded threshold, lubrication checked Repair completed.",bearing_wear
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+Abnormal compressor discharge temperature logged Parts ordered.,compressor_degradation
+Sensor reading inconsistent with adjacent sensor values Parts ordered.,sensor_drift
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+"Rattling noise during startup, bearing wear confirmed Engineer notified.",bearing_wear
+"Erratic sensor output during cold start, replaced Monitoring continues.",sensor_drift
+Fuel pressure drop observed during high load operation Engineer notified.,fuel_system
+Abnormal compressor discharge temperature logged Engineer notified.,compressor_degradation
+"Pressure transducer drift detected, recalibrated",sensor_drift
+Sensor reading inconsistent with adjacent sensor values Parts ordered.,sensor_drift
+"Hot section damage suspected, borescope inspection done",turbine_blade_damage
+"Erratic sensor output during cold start, replaced Parts ordered.",sensor_drift
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+"Erratic sensor output during cold start, replaced",sensor_drift
+Sensor bias confirmed after cross-check with backup Repair completed.,sensor_drift
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+"Temperature sensor showing offset, calibration performed",sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+"Erratic sensor output during cold start, replaced",sensor_drift
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+Sensor bias confirmed after cross-check with backup,sensor_drift
+Unusual vibration detected in main bearing assembly Parts ordered.,bearing_wear
+"Erratic sensor output during cold start, replaced Repair completed.",sensor_drift
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+"Hot section damage suspected, borescope inspection done Engineer notified.",turbine_blade_damage
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Work order raised.,turbine_blade_damage
+"Vibration amplitude increasing, bearing replacement scheduled Work order raised.",bearing_wear
+"Surge event recorded, compressor map reviewed Follow-up scheduled.",compressor_degradation
+"Flow coefficient reduced, compressor blades inspected",compressor_degradation
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"Surge event recorded, compressor map reviewed Monitoring continues.",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Repair completed.",turbine_blade_damage
+"Hot section damage suspected, borescope inspection done Parts ordered.",turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Monitoring continues.",bearing_wear
+"Rattling noise during startup, bearing wear confirmed",bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+Sensor bias confirmed after cross-check with backup,sensor_drift
+"Abnormal fuel consumption reported, filter replaced Repair completed.",fuel_system
+Exhaust gas temperature spread increased significantly Engineer notified.,turbine_blade_damage
+Sensor bias confirmed after cross-check with backup,sensor_drift
+"Turbine blade tip clearance out of spec, adjusted Follow-up scheduled.",turbine_blade_damage
+Unusual vibration detected in main bearing assembly,bearing_wear
+"Pressure transducer drift detected, recalibrated",sensor_drift
+Unusual vibration detected in main bearing assembly,bearing_wear
+"Compressor efficiency drop, blade fouling suspected Follow-up scheduled.",compressor_degradation
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Work order raised.",fuel_system
+"Fuel line blockage cleared, pressure restored to normal Follow-up scheduled.",fuel_system
+"Turbine exit temperature spike, blade inspection required Monitoring continues.",turbine_blade_damage
+"Compressor efficiency drop, blade fouling suspected Engineer notified.",compressor_degradation
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+Crack detected on turbine blade during visual inspection Follow-up scheduled.,turbine_blade_damage
+"Erratic sensor output during cold start, replaced Follow-up scheduled.",sensor_drift
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Parts ordered.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+"Hot section damage suspected, borescope inspection done",turbine_blade_damage
+Exhaust gas temperature spread increased significantly Engineer notified.,turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Follow-up scheduled.",sensor_drift
+"Flow coefficient reduced, compressor blades inspected",compressor_degradation
+Sensor bias confirmed after cross-check with backup Repair completed.,sensor_drift
+Abnormal compressor discharge temperature logged Follow-up scheduled.,compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked Parts ordered.",bearing_wear
+"Rattling noise during startup, bearing wear confirmed Parts ordered.",bearing_wear
+Thermal fatigue marks found on turbine nozzle guide vanes Work order raised.,turbine_blade_damage
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+"Turbine blade tip clearance out of spec, adjusted Engineer notified.",turbine_blade_damage
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+Abnormal compressor discharge temperature logged Parts ordered.,compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Follow-up scheduled.",fuel_system
+Unusual vibration detected in main bearing assembly Repair completed.,bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Parts ordered.",bearing_wear
+"Erratic sensor output during cold start, replaced Monitoring continues.",sensor_drift
+"Turbine blade tip clearance out of spec, adjusted Work order raised.",turbine_blade_damage
+"Metal shavings found in oil filter, bearing inspection done Follow-up scheduled.",bearing_wear
+"Pressure transducer drift detected, recalibrated",sensor_drift
+"Vibration amplitude increasing, bearing replacement scheduled Repair completed.",bearing_wear
+"Turbine blade tip clearance out of spec, adjusted",turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced Work order raised.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced",fuel_system
+Abnormal compressor discharge temperature logged Engineer notified.,compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+Unusual vibration detected in main bearing assembly Repair completed.,bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Parts ordered.",fuel_system
+"Flow coefficient reduced, compressor blades inspected Engineer notified.",compressor_degradation
+"Engine stall during acceleration, fuel pump inspected Engineer notified.",fuel_system
+"Compressor efficiency drop, blade fouling suspected Monitoring continues.",compressor_degradation
+"Pressure transducer drift detected, recalibrated Parts ordered.",sensor_drift
+"Hot section damage suspected, borescope inspection done Follow-up scheduled.",turbine_blade_damage
+Sensor bias confirmed after cross-check with backup Repair completed.,sensor_drift
+"Pressure transducer drift detected, recalibrated",sensor_drift
+"Pressure transducer drift detected, recalibrated Monitoring continues.",sensor_drift
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+Exhaust gas temperature spread increased significantly Parts ordered.,turbine_blade_damage
+"Compressor efficiency drop, blade fouling suspected Parts ordered.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+Crack detected on turbine blade during visual inspection Monitoring continues.,turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Work order raised.",sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Monitoring continues.",fuel_system
+Crack detected on turbine blade during visual inspection Repair completed.,turbine_blade_damage
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+"Turbine exit temperature spike, blade inspection required Work order raised.",turbine_blade_damage
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+"Turbine exit temperature spike, blade inspection required Monitoring continues.",turbine_blade_damage
+Sensor reading inconsistent with adjacent sensor values Work order raised.,sensor_drift
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced",fuel_system
+Sensor reading inconsistent with adjacent sensor values Parts ordered.,sensor_drift
+"Inlet pressure ratio declining, compressor washed Monitoring continues.",compressor_degradation
+"Fuel line blockage cleared, pressure restored to normal",fuel_system
+"Temperature sensor showing offset, calibration performed Follow-up scheduled.",sensor_drift
+"Flow coefficient reduced, compressor blades inspected Engineer notified.",compressor_degradation
+"Inlet pressure ratio declining, compressor washed Parts ordered.",compressor_degradation
+"Vibration amplitude increasing, bearing replacement scheduled Follow-up scheduled.",bearing_wear
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+"Temperature sensor showing offset, calibration performed Parts ordered.",sensor_drift
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Turbine exit temperature spike, blade inspection required Monitoring continues.",turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Engineer notified.",fuel_system
+Sensor bias confirmed after cross-check with backup Monitoring continues.,sensor_drift
+"Pressure transducer drift detected, recalibrated Repair completed.",sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Parts ordered.",fuel_system
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+Crack detected on turbine blade during visual inspection Monitoring continues.,turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Work order raised.",fuel_system
+Crack detected on turbine blade during visual inspection Repair completed.,turbine_blade_damage
+"Surge event recorded, compressor map reviewed Parts ordered.",compressor_degradation
+"Erratic sensor output during cold start, replaced Engineer notified.",sensor_drift
+"Hot section damage suspected, borescope inspection done Engineer notified.",turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal Repair completed.",fuel_system
+Fuel pressure drop observed during high load operation Follow-up scheduled.,fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Monitoring continues.,turbine_blade_damage
+"Hot section damage suspected, borescope inspection done Work order raised.",turbine_blade_damage
+"Turbine exit temperature spike, blade inspection required Monitoring continues.",turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Work order raised.",fuel_system
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Fuel flow rate inconsistent, injector cleaned and tested Follow-up scheduled.",fuel_system
+"Fuel line blockage cleared, pressure restored to normal Repair completed.",fuel_system
+"Temperature sensor showing offset, calibration performed Engineer notified.",sensor_drift
+"Data dropout from sensor cluster, wiring inspected Engineer notified.",sensor_drift
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Engineer notified.",fuel_system
+"Compressor stall detected, inlet guide vanes adjusted Follow-up scheduled.",compressor_degradation
+Crack detected on turbine blade during visual inspection Engineer notified.,turbine_blade_damage
+"Temperature sensor showing offset, calibration performed Engineer notified.",sensor_drift
+Sensor reading inconsistent with adjacent sensor values,sensor_drift
+Sensor bias confirmed after cross-check with backup Follow-up scheduled.,sensor_drift
+"Turbine exit temperature spike, blade inspection required Engineer notified.",turbine_blade_damage
+Sensor reading inconsistent with adjacent sensor values Work order raised.,sensor_drift
+Sensor reading inconsistent with adjacent sensor values Monitoring continues.,sensor_drift
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+Sensor reading inconsistent with adjacent sensor values Monitoring continues.,sensor_drift
+"Compressor stall detected, inlet guide vanes adjusted Parts ordered.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Follow-up scheduled.",sensor_drift
+"Inlet pressure ratio declining, compressor washed Monitoring continues.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Monitoring continues.,turbine_blade_damage
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+"Fuel flow rate inconsistent, injector cleaned and tested Monitoring continues.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Work order raised.",turbine_blade_damage
+"Metal shavings found in oil filter, bearing inspection done Engineer notified.",bearing_wear
+"Inlet pressure ratio declining, compressor washed Parts ordered.",compressor_degradation
+"High frequency noise from bearing, excessive heat noted Monitoring continues.",bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Parts ordered.",compressor_degradation
+Unusual vibration detected in main bearing assembly Parts ordered.,bearing_wear
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+"Data dropout from sensor cluster, wiring inspected Follow-up scheduled.",sensor_drift
+Sensor reading inconsistent with adjacent sensor values Engineer notified.,sensor_drift
+"Data dropout from sensor cluster, wiring inspected Repair completed.",sensor_drift
+"Temperature sensor showing offset, calibration performed Parts ordered.",sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted Repair completed.",bearing_wear
+"Inlet pressure ratio declining, compressor washed Follow-up scheduled.",compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Repair completed.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Work order raised.",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Parts ordered.",turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Monitoring continues.",compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Engineer notified.",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values Parts ordered.,sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+"Engine stall during acceleration, fuel pump inspected Engineer notified.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+Thermal fatigue marks found on turbine nozzle guide vanes Monitoring continues.,turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Parts ordered.",sensor_drift
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+"Rattling noise during startup, bearing wear confirmed",bearing_wear
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Engineer notified.,turbine_blade_damage
+"Temperature sensor showing offset, calibration performed Engineer notified.",sensor_drift
+"Turbine exit temperature spike, blade inspection required Monitoring continues.",turbine_blade_damage
+"Hot section damage suspected, borescope inspection done Repair completed.",turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Monitoring continues.",compressor_degradation
+"Hot section damage suspected, borescope inspection done Parts ordered.",turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"Flow coefficient reduced, compressor blades inspected Follow-up scheduled.",compressor_degradation
+Abnormal compressor discharge temperature logged Engineer notified.,compressor_degradation
+"Compressor efficiency drop, blade fouling suspected Monitoring continues.",compressor_degradation
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Follow-up scheduled.",bearing_wear
+"Hot section damage suspected, borescope inspection done Parts ordered.",turbine_blade_damage
+Sensor bias confirmed after cross-check with backup,sensor_drift
+"Fuel line blockage cleared, pressure restored to normal Monitoring continues.",fuel_system
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Follow-up scheduled.",bearing_wear
+Sensor reading inconsistent with adjacent sensor values,sensor_drift
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+"Compressor efficiency drop, blade fouling suspected",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Parts ordered.",turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Parts ordered.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Monitoring continues.",fuel_system
+"Flow coefficient reduced, compressor blades inspected",compressor_degradation
+"Turbine exit temperature spike, blade inspection required Parts ordered.",turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Follow-up scheduled.",fuel_system
+"Surge event recorded, compressor map reviewed Parts ordered.",compressor_degradation
+"Inlet pressure ratio declining, compressor washed Work order raised.",compressor_degradation
+"Metal shavings found in oil filter, bearing inspection done Engineer notified.",bearing_wear
+"Rattling noise during startup, bearing wear confirmed Work order raised.",bearing_wear
+"Compressor stall detected, inlet guide vanes adjusted Monitoring continues.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Work order raised.,turbine_blade_damage
+"Vibration amplitude increasing, bearing replacement scheduled Repair completed.",bearing_wear
+Sensor reading inconsistent with adjacent sensor values Parts ordered.,sensor_drift
+"Inlet pressure ratio declining, compressor washed Monitoring continues.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+"Erratic sensor output during cold start, replaced",sensor_drift
+"Metal shavings found in oil filter, bearing inspection done Parts ordered.",bearing_wear
+"Temperature sensor showing offset, calibration performed",sensor_drift
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Vibration amplitude increasing, bearing replacement scheduled Parts ordered.",bearing_wear
+Unusual vibration detected in main bearing assembly Parts ordered.,bearing_wear
+"Surge event recorded, compressor map reviewed Work order raised.",compressor_degradation
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+"Turbine exit temperature spike, blade inspection required Parts ordered.",turbine_blade_damage
+"Engine stall during acceleration, fuel pump inspected Monitoring continues.",fuel_system
+"Turbine exit temperature spike, blade inspection required Engineer notified.",turbine_blade_damage
+"Metal shavings found in oil filter, bearing inspection done Parts ordered.",bearing_wear
+"Data dropout from sensor cluster, wiring inspected Parts ordered.",sensor_drift
+"Engine stall during acceleration, fuel pump inspected Follow-up scheduled.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Follow-up scheduled.",turbine_blade_damage
+Thermal fatigue marks found on turbine nozzle guide vanes Parts ordered.,turbine_blade_damage
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested Repair completed.",fuel_system
+Exhaust gas temperature spread increased significantly Repair completed.,turbine_blade_damage
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+Crack detected on turbine blade during visual inspection Work order raised.,turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed Repair completed.",compressor_degradation
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+Sensor bias confirmed after cross-check with backup Follow-up scheduled.,sensor_drift
+"Data dropout from sensor cluster, wiring inspected Monitoring continues.",sensor_drift
+Sensor bias confirmed after cross-check with backup Repair completed.,sensor_drift
+"Fuel flow rate inconsistent, injector cleaned and tested Follow-up scheduled.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Repair completed.",compressor_degradation
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"Inlet pressure ratio declining, compressor washed Follow-up scheduled.",compressor_degradation
+Sensor reading inconsistent with adjacent sensor values Follow-up scheduled.,sensor_drift
+"Turbine blade tip clearance out of spec, adjusted Repair completed.",turbine_blade_damage
+Unusual vibration detected in main bearing assembly Work order raised.,bearing_wear
+"Flow coefficient reduced, compressor blades inspected Follow-up scheduled.",compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Repair completed.",fuel_system
+Unusual vibration detected in main bearing assembly Monitoring continues.,bearing_wear
+Sensor bias confirmed after cross-check with backup,sensor_drift
+Sensor reading inconsistent with adjacent sensor values Repair completed.,sensor_drift
+Abnormal compressor discharge temperature logged,compressor_degradation
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Work order raised.",fuel_system
+"Bearing temperature exceeded threshold, lubrication checked Repair completed.",bearing_wear
+"Turbine blade tip clearance out of spec, adjusted Repair completed.",turbine_blade_damage
+"Flow coefficient reduced, compressor blades inspected Parts ordered.",compressor_degradation
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+Abnormal compressor discharge temperature logged,compressor_degradation
+"Engine stall during acceleration, fuel pump inspected Parts ordered.",fuel_system
+"Metal shavings found in oil filter, bearing inspection done Engineer notified.",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+"Temperature sensor showing offset, calibration performed Monitoring continues.",sensor_drift
+"Flow coefficient reduced, compressor blades inspected Repair completed.",compressor_degradation
+"Fuel line blockage cleared, pressure restored to normal",fuel_system
+Exhaust gas temperature spread increased significantly Follow-up scheduled.,turbine_blade_damage
+"Fuel flow rate inconsistent, injector cleaned and tested",fuel_system
+"Rattling noise during startup, bearing wear confirmed Monitoring continues.",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Parts ordered.",fuel_system
+"Turbine blade tip clearance out of spec, adjusted Monitoring continues.",turbine_blade_damage
+"Fuel leak detected near injector nozzle, seal replaced Work order raised.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Follow-up scheduled.",fuel_system
+"Metal shavings found in oil filter, bearing inspection done Parts ordered.",bearing_wear
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+"Data dropout from sensor cluster, wiring inspected",sensor_drift
+"Turbine exit temperature spike, blade inspection required Work order raised.",turbine_blade_damage
+"Pressure transducer drift detected, recalibrated Engineer notified.",sensor_drift
+Abnormal compressor discharge temperature logged Repair completed.,compressor_degradation
+"Temperature sensor showing offset, calibration performed",sensor_drift
+"Compressor efficiency drop, blade fouling suspected Monitoring continues.",compressor_degradation
+"Data dropout from sensor cluster, wiring inspected Follow-up scheduled.",sensor_drift
+Fuel pressure drop observed during high load operation Repair completed.,fuel_system
+"Surge event recorded, compressor map reviewed Parts ordered.",compressor_degradation
+"Erratic sensor output during cold start, replaced Work order raised.",sensor_drift
+"Flow coefficient reduced, compressor blades inspected Engineer notified.",compressor_degradation
+Crack detected on turbine blade during visual inspection,turbine_blade_damage
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear
+Crack detected on turbine blade during visual inspection Engineer notified.,turbine_blade_damage
+Exhaust gas temperature spread increased significantly Engineer notified.,turbine_blade_damage
+Abnormal compressor discharge temperature logged Engineer notified.,compressor_degradation
+Crack detected on turbine blade during visual inspection Parts ordered.,turbine_blade_damage
+"Compressor stall detected, inlet guide vanes adjusted Follow-up scheduled.",compressor_degradation
+Unusual vibration detected in main bearing assembly Follow-up scheduled.,bearing_wear
+"Inlet pressure ratio declining, compressor washed Engineer notified.",compressor_degradation
+"Flow coefficient reduced, compressor blades inspected Follow-up scheduled.",compressor_degradation
+Sensor bias confirmed after cross-check with backup Engineer notified.,sensor_drift
+Thermal fatigue marks found on turbine nozzle guide vanes,turbine_blade_damage
+Fuel pressure drop observed during high load operation Monitoring continues.,fuel_system
+"Bearing temperature exceeded threshold, lubrication checked Engineer notified.",bearing_wear
+"Fuel line blockage cleared, pressure restored to normal Engineer notified.",fuel_system
+"Surge event recorded, compressor map reviewed Monitoring continues.",compressor_degradation
+Unusual vibration detected in main bearing assembly Parts ordered.,bearing_wear
+Fuel pressure drop observed during high load operation Parts ordered.,fuel_system
+"Data dropout from sensor cluster, wiring inspected Engineer notified.",sensor_drift
+"High frequency noise from bearing, excessive heat noted Parts ordered.",bearing_wear
+"Engine stall during acceleration, fuel pump inspected Parts ordered.",fuel_system
+"Erratic sensor output during cold start, replaced Parts ordered.",sensor_drift
+Abnormal compressor discharge temperature logged Work order raised.,compressor_degradation
+Abnormal compressor discharge temperature logged Monitoring continues.,compressor_degradation
+"Abnormal fuel consumption reported, filter replaced Engineer notified.",fuel_system
+"Turbine exit temperature spike, blade inspection required Follow-up scheduled.",turbine_blade_damage
+"Abnormal fuel consumption reported, filter replaced Monitoring continues.",fuel_system
+Exhaust gas temperature spread increased significantly Monitoring continues.,turbine_blade_damage
+"High frequency noise from bearing, excessive heat noted",bearing_wear
+Thermal fatigue marks found on turbine nozzle guide vanes Follow-up scheduled.,turbine_blade_damage
+"Erratic sensor output during cold start, replaced Work order raised.",sensor_drift
+"Vibration amplitude increasing, bearing replacement scheduled Engineer notified.",bearing_wear
+"Fuel leak detected near injector nozzle, seal replaced Repair completed.",fuel_system
+"Rattling noise during startup, bearing wear confirmed Repair completed.",bearing_wear
+"Surge event recorded, compressor map reviewed Parts ordered.",compressor_degradation
+"Engine stall during acceleration, fuel pump inspected Work order raised.",fuel_system
+"Fuel leak detected near injector nozzle, seal replaced Engineer notified.",fuel_system
+"Inlet pressure ratio declining, compressor washed Work order raised.",compressor_degradation
+"Bearing temperature exceeded threshold, lubrication checked Parts ordered.",bearing_wear
+Exhaust gas temperature spread increased significantly,turbine_blade_damage
+"Metal shavings found in oil filter, bearing inspection done Work order raised.",bearing_wear
+"Hot section damage suspected, borescope inspection done Repair completed.",turbine_blade_damage
+"Metal shavings found in oil filter, bearing inspection done Repair completed.",bearing_wear
+"Bearing temperature exceeded threshold, lubrication checked Engineer notified.",bearing_wear
+"Abnormal fuel consumption reported, filter replaced Engineer notified.",fuel_system
+Sensor bias confirmed after cross-check with backup Monitoring continues.,sensor_drift
+"Compressor efficiency drop, blade fouling suspected Work order raised.",compressor_degradation
+"Vibration amplitude increasing, bearing replacement scheduled",bearing_wear

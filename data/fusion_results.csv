@@ -1,0 +1,5 @@
+risk_score,status,action,lstm_risk,nlp_risk,cnn_risk,rul,fault_type,cnn_condition,engine_id,desc
+69.1,🟡 WARNING,Schedule maintenance this week,94.0,86.6,2.0,7.6,turbine_blade_damage,healthy,ENG-001,Critical — near failure
+42.3,🟢 MONITOR,Inspect at next service interval,28.6,57.0,55.0,89.3,bearing_wear,worn,ENG-002,Warning — mid degradation
+26.8,🟢 MONITOR,Inspect at next service interval,15.8,25.8,50.1,105.3,sensor_drift,worn,ENG-003,Healthy — early life
+68.3,🟡 WARNING,Schedule maintenance this week,80.2,58.8,53.9,24.8,compressor_degradation,worn,ENG-004,Monitor — late life

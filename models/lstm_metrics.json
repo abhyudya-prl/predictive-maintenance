@@ -1,0 +1,17 @@
+{
+  "rmse": 15.28,
+  "mae": 11.78,
+  "best_val_loss": 236.52,
+  "epochs": 30,
+  "window_size": 30,
+  "features": [
+    "sensor_11",
+    "sensor_4",
+    "sensor_12",
+    "sensor_7",
+    "sensor_21",
+    "sensor_20",
+    "sensor_17",
+    "sensor_2"
+  ]
+}

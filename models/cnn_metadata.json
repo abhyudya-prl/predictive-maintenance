@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "healthy",
+    "worn",
+    "damaged"
+  ],
+  "accuracy": 100.0,
+  "best_val_acc": 100.0,
+  "img_size": 64,
+  "architecture": "ResNet18 (transfer learning)",
+  "epochs": 15
+}
