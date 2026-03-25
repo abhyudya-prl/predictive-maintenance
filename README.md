@@ -163,6 +163,6 @@ Opens at `http://localhost:8501`
 
 ## 🎓 About
 
-Built as a pre-internship portfolio project by a 6th semester B.Tech CSBS student to demonstrate practical AI/ML skills across deep learning, NLP, and computer vision — applied to a real industrial domain.
+Built as a portfolio project to demonstrate practical AI/ML skills across deep learning, NLP, and computer vision — applied to a real industrial domain.
 
 **Dataset:** [NASA Prognostics Center — CMAPSS](https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository)
